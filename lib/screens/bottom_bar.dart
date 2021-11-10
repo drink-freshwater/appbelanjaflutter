@@ -77,7 +77,7 @@ class _BottomBarScreenState extends State<BottomBarScreen> {
               items: [
                 BottomNavigationBarItem(
                   icon: Icon(Icons.home),
-                  tooltip: 'Home',
+                  tooltip: 'ini Home',
                   label: 'Home',
                 ),
                 BottomNavigationBarItem(
