@@ -7,7 +7,7 @@ class Feeds extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('Feeds'),
+        child: Text('Feeds main'),
       ),
     );
   }
